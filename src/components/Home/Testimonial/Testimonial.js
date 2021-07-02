@@ -4,7 +4,7 @@ const Testimonial = ({ testimonial }) => {
     console.log(testimonial)
     return (
         <div className='col-md-3  shadow p-3 mb-5 bg-body rounded'>
-            <div>
+            <div className='quote'>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto temporibus atque dolores velit sapiente, aspernatur non itaque a praesentium corrupti dignissimos porro quas, quod iste quaerat, dolorum molestias eius sit!</p>
             </div>
             <div className='d-flex my-3'>

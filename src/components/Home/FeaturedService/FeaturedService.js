@@ -3,7 +3,7 @@ import featured from '../../../img/featured.png';
 
 const FeaturedService = () => {
     return (
-        <section className='d-flex mt-5 pt-5 mx-auto'>
+        <section className='d-flex w-100 mt-5 pt-5 mx-auto'>
                 <div className="col-md-5 col-12 offset-1 text-center">
                     <img src={featured} alt="" height='500' />
                 </div>

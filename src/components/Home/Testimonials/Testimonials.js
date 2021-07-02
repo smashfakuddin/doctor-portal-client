@@ -11,17 +11,17 @@ const testimonialData = [
     {
         name: 'Winson Herry',
         img: winson,
-        address:'New York'
+        address: 'New York'
     },
     {
         name: 'Selena Wilson',
         img: selena,
-        address:'California'
+        address: 'California'
     },
     {
         name: 'Emma Olivia',
         img: emma,
-        address:'Manchester'
+        address: 'Manchester'
     },
 ]
 
