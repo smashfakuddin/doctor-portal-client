@@ -11,7 +11,7 @@ const HeaderMain = () => {
                     adipisicing elit. Deleniti porro unde voluptatem cum iure perspiciatis
                     quos doloremque. Lorem ipsum dolor sit amet consectetur adipisicing
                     elit. Facilis repellat dolorem eius?</p>
-                <button className="custom-button">Get Appointment</button>
+                <button className="custom-button">GET APPOINTMENT</button>
             </div>
             <div className="col-md-6 ms-3  offset-2 col-10 ">
                 <img src={chair} alt="" width='700' className='img-fluid' />
