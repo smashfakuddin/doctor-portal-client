@@ -15,7 +15,7 @@ const Navbar = () => {
                                 <a className="nav-link active" aria-current="page" href="/home">Home</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link " href="/about">About</a>
+                                <a className="nav-link " href="/appointment">Appointment</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link " href="/dental-services">Dental Services</a>

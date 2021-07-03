@@ -5,13 +5,20 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
+import Appointment from './components/Appointment/Appointment/Appointment';
 
 function App() {
   return (
     <Router>
       <Switch>
+        <Route exact path='/home'>
+          <Home />
+        </Route>
+        <Route exact path='/appointment'>
+          <Appointment />
+        </Route>
         <Route exact path='/'>
-          <Home/>
+          <Home />
         </Route>
       </Switch>
     </Router>

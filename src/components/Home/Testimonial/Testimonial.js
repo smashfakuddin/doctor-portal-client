@@ -10,7 +10,7 @@ const Testimonial = ({ testimonial }) => {
             <div className='d-flex my-3'>
                 <img src={testimonial.img} alt="" />
                 <div className='ms-3'>
-                    <h4 style={{color:'#1cc7c1'}}>{testimonial.name}</h4>
+                    <h4 className='text-brand'>{testimonial.name}</h4>
                     <h6 className='text-secondary'>{testimonial.address}</h6>
                 </div>
             </div>

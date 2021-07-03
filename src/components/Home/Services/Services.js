@@ -23,7 +23,7 @@ const Services = () => {
     return (
         <section className='services-container'>
             <div className='text-center my-5'>
-                <h6 style={{ color: '#1cc7c1' }}>OUR SERVICES</h6>
+                <h6 className='text-brand'>OUR SERVICES</h6>
                 <h3>Services We Provide</h3>
             </div>
             <div className='d-flex justify-content-center'>

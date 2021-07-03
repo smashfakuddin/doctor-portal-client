@@ -26,7 +26,7 @@ const Blogs = () => {
     return (
         <section className='blogs'>
             <div className="text-center my-5">
-                <h6 style={{ color: '#1cc7c1' }}>OUR BLOG</h6>
+                <h6 className='text-brand'>OUR BLOG</h6>
                 <h4>From Our Blog News</h4>
             </div>
             <div className='row d-flex justify-content-evenly'>
