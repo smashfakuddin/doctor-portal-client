@@ -21,6 +21,7 @@ const AppointmentForm = ({ modalIsOpen, closeModal, appointmentOn, date }) => {
 
     const onSubmit = data => {
         console.log(data);
+        closeModal();
     }
 
     return (
